@@ -1,0 +1,2 @@
+# Investigating Netflix Movies
+ Embark on a data exploration journey with me into Netflix's extensive library. Using Python, I've initiated an analysis of the provided dataset, "netflix_data.csv," aiming to uncover whether there's a decline in average movie durations over time. Join me as I delve into trends, seeking insights into any observed changes and their potential contributing factors. (My @DataCamp Project)
